@@ -1,0 +1,10 @@
+# Ignorar todos los archivos excepto los archivos C++ y PDF
+*
+
+# Permitir archivos C++
+!*.cpp
+!*.hpp
+!*.h
+
+# Permitir archivos PDF
+!*.pdf
