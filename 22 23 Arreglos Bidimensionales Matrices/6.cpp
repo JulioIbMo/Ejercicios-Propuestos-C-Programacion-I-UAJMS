@@ -6,6 +6,7 @@ int main (){
     int n;
     cin>>n;
 
+
     int matriz[n][n];
     srand(time(NULL));
     
